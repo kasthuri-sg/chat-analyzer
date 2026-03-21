@@ -1,0 +1,407 @@
+{
+    "name": "Sample Chat Group",
+    "type": "public_supergroup",
+    "id": 1234567890,
+    "messages": [
+        {
+            "id": 1,
+            "type": "message",
+            "date": "2024-01-15T09:15:00",
+            "date_unixtime": "1705310100",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Hey everyone! Good morning! 👋",
+            "text_entities": []
+        },
+        {
+            "id": 2,
+            "type": "message",
+            "date": "2024-01-15T09:16:30",
+            "date_unixtime": "1705310190",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Good morning Alice! How are you doing today? 😊",
+            "text_entities": []
+        },
+        {
+            "id": 3,
+            "type": "message",
+            "date": "2024-01-15T09:18:00",
+            "date_unixtime": "1705310280",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "I'm doing great! Just had an amazing coffee ☕ Ready to start the day with some productive work!",
+            "text_entities": []
+        },
+        {
+            "id": 4,
+            "type": "message",
+            "date": "2024-01-15T09:20:15",
+            "date_unixtime": "1705310415",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Morning all! LOL I just woke up 😂 anyone else having a slow start?",
+            "text_entities": []
+        },
+        {
+            "id": 5,
+            "type": "message",
+            "date": "2024-01-15T09:22:00",
+            "date_unixtime": "1705310520",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Haha Charlie! I feel you 😂 But gotta get that bread! Work won't do itself you know",
+            "text_entities": []
+        },
+        {
+            "id": 6,
+            "type": "message",
+            "date": "2024-01-15T12:30:00",
+            "date_unixtime": "1705321800",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Lunch break! 🍕 Anyone want to grab some food? This pizza place downtown is fire 🔥",
+            "text_entities": []
+        },
+        {
+            "id": 7,
+            "type": "message",
+            "date": "2024-01-15T12:32:00",
+            "date_unixtime": "1705321920",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "OMG yes! I'm totally down for pizza! 🍕🍕 Count me in!",
+            "text_entities": []
+        },
+        {
+            "id": 8,
+            "type": "message",
+            "date": "2024-01-15T12:35:00",
+            "date_unixtime": "1705322100",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "I wish I could join but I'm swamped with work today 😔 Maybe next time? NGL this workload is insane",
+            "text_entities": []
+        },
+        {
+            "id": 9,
+            "type": "message",
+            "date": "2024-01-15T14:00:00",
+            "date_unixtime": "1705327200",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Just finished lunch! That pizza was absolutely delicious! Best decision ever 💯",
+            "text_entities": []
+        },
+        {
+            "id": 10,
+            "type": "message",
+            "date": "2024-01-15T14:05:00",
+            "date_unixtime": "1705327500",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Fr fr that was amazing! We should definitely go there again! Thanks for the recommendation Alice!",
+            "text_entities": []
+        },
+        {
+            "id": 11,
+            "type": "message",
+            "date": "2024-01-15T16:45:00",
+            "date_unixtime": "1705337100",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Finally done with work! 🎉 Anyone up for a quick chat?",
+            "text_entities": []
+        },
+        {
+            "id": 12,
+            "type": "message",
+            "date": "2024-01-15T16:47:00",
+            "date_unixtime": "1705337220",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Yay Bob! Great job finishing! 👏 How was your day overall?",
+            "text_entities": []
+        },
+        {
+            "id": 13,
+            "type": "message",
+            "date": "2024-01-15T16:50:00",
+            "date_unixtime": "1705337400",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "TBH it was pretty stressful but I got through it! Feeling accomplished now 😌",
+            "text_entities": []
+        },
+        {
+            "id": 14,
+            "type": "message",
+            "date": "2024-01-15T18:30:00",
+            "date_unixtime": "1705343400",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Hey anyone watching the game tonight? Should be really exciting! 🏀",
+            "text_entities": []
+        },
+        {
+            "id": 15,
+            "type": "message",
+            "date": "2024-01-15T18:32:00",
+            "date_unixtime": "1705343520",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Oh I love basketball! Definitely watching! Who are you rooting for?",
+            "text_entities": []
+        },
+        {
+            "id": 16,
+            "type": "message",
+            "date": "2024-01-15T18:35:00",
+            "date_unixtime": "1705343700",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Let's go Lakers! 🏀🔥 They've been playing so well this season IMO",
+            "text_entities": []
+        },
+        {
+            "id": 17,
+            "type": "message",
+            "date": "2024-01-15T20:00:00",
+            "date_unixtime": "1705348800",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "What a game! That last shot was incredible! 🎯 Can't believe they won!",
+            "text_entities": []
+        },
+        {
+            "id": 18,
+            "type": "message",
+            "date": "2024-01-15T20:02:00",
+            "date_unixtime": "1705348920",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "I know right! So exciting! What a finish! Best game I've seen this year! 🙌",
+            "text_entities": []
+        },
+        {
+            "id": 19,
+            "type": "message",
+            "date": "2024-01-15T22:30:00",
+            "date_unixtime": "1705357800",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Good night everyone! Had an awesome day! Sweet dreams! 🌙✨",
+            "text_entities": []
+        },
+        {
+            "id": 20,
+            "type": "message",
+            "date": "2024-01-15T22:32:00",
+            "date_unixtime": "1705357920",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Good night Charlie! Sleep well! See you all tomorrow! 💤",
+            "text_entities": []
+        },
+        {
+            "id": 21,
+            "type": "message",
+            "date": "2024-01-16T08:00:00",
+            "date_unixtime": "1705396800",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Good morning! Hope everyone slept well! Ready for another productive day!",
+            "text_entities": []
+        },
+        {
+            "id": 22,
+            "type": "message",
+            "date": "2024-01-16T08:15:00",
+            "date_unixtime": "1705397700",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Morning Bob! Yes had a great sleep! What's on your agenda today?",
+            "text_entities": []
+        },
+        {
+            "id": 23,
+            "type": "message",
+            "date": "2024-01-16T08:20:00",
+            "date_unixtime": "1705398000",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Got a bunch of meetings today ugh 😩 But hopefully they'll be productive!",
+            "text_entities": []
+        },
+        {
+            "id": 24,
+            "type": "message",
+            "date": "2024-01-16T09:00:00",
+            "date_unixtime": "1705400400",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Hey everyone! Just saw this hilarious meme and had to share 😂😂",
+            "text_entities": []
+        },
+        {
+            "id": 25,
+            "type": "message",
+            "date": "2024-01-16T09:05:00",
+            "date_unixtime": "1705400700",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "LOL Charlie! You always find the best memes! 😂 Sending it to my friends!",
+            "text_entities": []
+        },
+        {
+            "id": 26,
+            "type": "message",
+            "date": "2024-01-16T12:00:00",
+            "date_unixtime": "1705411200",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Break time! Finally finished my first three meetings 😮‍💨 One more to go!",
+            "text_entities": []
+        },
+        {
+            "id": 27,
+            "type": "message",
+            "date": "2024-01-16T12:05:00",
+            "date_unixtime": "1705411500",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "You got this Bob! 💪 Almost done! What's the last meeting about?",
+            "text_entities": []
+        },
+        {
+            "id": 28,
+            "type": "message",
+            "date": "2024-01-16T12:10:00",
+            "date_unixtime": "1705411800",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "It's about the new project proposal! Kinda nervous but excited! 🤞",
+            "text_entities": []
+        },
+        {
+            "id": 29,
+            "type": "message",
+            "date": "2024-01-16T15:00:00",
+            "date_unixtime": "1705422000",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "How did your meeting go Bob? 🤔",
+            "text_entities": []
+        },
+        {
+            "id": 30,
+            "type": "message",
+            "date": "2024-01-16T15:05:00",
+            "date_unixtime": "1705422300",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "It went amazing! The proposal was approved! 🎉🎉 So happy right now!",
+            "text_entities": []
+        },
+        {
+            "id": 31,
+            "type": "message",
+            "date": "2024-01-16T15:10:00",
+            "date_unixtime": "1705422600",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Congrats Bob! That's awesome news! We should celebrate! 🥳🎊",
+            "text_entities": []
+        },
+        {
+            "id": 32,
+            "type": "message",
+            "date": "2024-01-16T18:00:00",
+            "date_unixtime": "1705432800",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Who's up for dinner to celebrate Bob's success? 🍝 My treat!",
+            "text_entities": []
+        },
+        {
+            "id": 33,
+            "type": "message",
+            "date": "2024-01-16T18:05:00",
+            "date_unixtime": "1705433100",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Wow Alice that's so sweet of you! 😊 You really don't have to but I appreciate it!",
+            "text_entities": []
+        },
+        {
+            "id": 34,
+            "type": "message",
+            "date": "2024-01-16T18:10:00",
+            "date_unixtime": "1705433400",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Count me in! Let's gooo! 🎉 This is gonna be fun!",
+            "text_entities": []
+        },
+        {
+            "id": 35,
+            "type": "message",
+            "date": "2024-01-16T21:00:00",
+            "date_unixtime": "1705443600",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Thank you both for an amazing dinner! Had such a wonderful time! 🙏❤️",
+            "text_entities": []
+        },
+        {
+            "id": 36,
+            "type": "message",
+            "date": "2024-01-16T21:05:00",
+            "date_unixtime": "1705443900",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "It was great seeing you all! We should do this more often! Best friends ever! 💕",
+            "text_entities": []
+        },
+        {
+            "id": 37,
+            "type": "message",
+            "date": "2024-01-16T21:10:00",
+            "date_unixtime": "1705444200",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Fr! This was the best! Good night everyone! 🌙",
+            "text_entities": []
+        },
+        {
+            "id": 38,
+            "type": "message",
+            "date": "2024-01-17T07:30:00",
+            "date_unixtime": "1705474200",
+            "from": "Alice",
+            "from_id": "user111111",
+            "text": "Happy Wednesday everyone! ☀️ Halfway through the week!",
+            "text_entities": []
+        },
+        {
+            "id": 39,
+            "type": "message",
+            "date": "2024-01-17T07:35:00",
+            "date_unixtime": "1705474500",
+            "from": "Bob",
+            "from_id": "user222222",
+            "text": "Good morning! Feeling refreshed after last night! Ready to tackle the day! 💪",
+            "text_entities": []
+        },
+        {
+            "id": 40,
+            "type": "message",
+            "date": "2024-01-17T10:00:00",
+            "date_unixtime": "1705483200",
+            "from": "Charlie",
+            "from_id": "user333333",
+            "text": "Hey does anyone have good movie recommendations? Want to watch something tonight 🎬",
+            "text_entities": []
+        }
+    ]
+}
