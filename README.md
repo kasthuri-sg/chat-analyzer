@@ -98,9 +98,7 @@ python main.py
 
 Download the latest release for your platform from the [Releases](https://github.com/kasthuri-sg/chat-analyzer/releases) page.
 
-**Windows:** `ChatAnalyzer.exe`  
-**macOS:** `ChatAnalyzer.app`  
-**Linux:** `ChatAnalyzer`
+TBD
 
 ---
 
