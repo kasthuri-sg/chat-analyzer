@@ -72,17 +72,9 @@ Your chat history contains personal conversations, secrets, and sensitive inform
 
 ---
 
-## Screenshots
+## Highlight
 
-| Dashboard | Activity Heatmap |
-|-----------|------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Heatmap](screenshots/heatmap.png) |
-
-| Comparison | Words & Emojis |
-|------------|----------------|
-| ![Comparison](screenshots/comparison.png) | ![Words](screenshots/words.png) |
-
-*Add your own screenshots to the `screenshots/` folder*
+- Use **HTML Export** to get the beautiful output.
 
 ---
 
@@ -293,4 +285,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this project useful, please star the repository!**
 
-[GitHub](https://github.com/kasthuri-sg/chat-analyzer) • Made with ❤️ for privacy
+[GitHub](https://github.com/kasthuri-sg/chat-analyzer)
